@@ -32,3 +32,5 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+## Screenshot
+![Screenshot of the website](https://github.com/jawm17/Homework1/blob/master/screen_shot.png?raw=true)
