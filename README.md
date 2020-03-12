@@ -4,9 +4,9 @@
 This was a homework assignment where we refactored and optimized the HTML/CSS of a marketing website.
 
 ## Completed
-* did this
-* did this
-* did this
+* Added comments to make code more accesible
+* Reorganized CSS to make it more efficient
+* Created alt tags for images
 
 ## User Story
 
